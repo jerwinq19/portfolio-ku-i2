@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jerwinq19/portfolio-ku-i2/static/css/main.93a0497a.css",
+    "main.js": "/jerwinq19/portfolio-ku-i2/static/js/main.2ad119c7.js",
+    "index.html": "/jerwinq19/portfolio-ku-i2/index.html",
+    "main.93a0497a.css.map": "/jerwinq19/portfolio-ku-i2/static/css/main.93a0497a.css.map",
+    "main.2ad119c7.js.map": "/jerwinq19/portfolio-ku-i2/static/js/main.2ad119c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.2ad119c7.js"
+  ]
+}
